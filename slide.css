@@ -1,0 +1,33 @@
+body{
+    background-image: url('img/bg.jpg')
+}
+
+.slider2{
+    margin: 100px 350px 100px;
+    width: 600px;
+    height: 300px;
+    border: 2px solid lightblue; 
+    position: relative;
+}
+
+.slide{
+    width: 600px;
+    height: 300px;
+}
+
+p{
+    color: white;
+}
+
+.prev{
+    margin-top: 40px;
+    top: 120px;
+    left: 20px;
+    position: absolute
+}
+.next{
+    margin-top: 40px;
+    top: 120px;
+    right: 20px;
+    position: absolute
+}
